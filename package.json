@@ -1,0 +1,28 @@
+{
+  "name": "javalearn2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PI-JOHN/travelSite.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "webpack"
+  ],
+  "author": "pi-john",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PI-JOHN/travelSite/issues"
+  },
+  "homepage": "https://github.com/PI-JOHN/travelSite#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
